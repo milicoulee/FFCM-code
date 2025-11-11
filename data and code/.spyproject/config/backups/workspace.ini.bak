@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['玩\\1.py', '玩\\2.py', 'transfomer系列\\啊批量查看结果.py', 'transfomer系列\\不同注意力时间步对比.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
